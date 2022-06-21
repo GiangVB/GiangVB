@@ -11,7 +11,7 @@
 ### About Me:
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Java Web Developer from Vietnam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: In my free :zap: I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free :zap: I play quidditch and read tech articles.
 ---
 
 ### :hammer_and_wrench:
