@@ -18,16 +18,16 @@
 </div>
 ---
 
-### 👨‍👦_technologist: About Me : I am a Java Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+### 👨‍👦: About Me : I am a Java Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling:seedling:g Technical Content Writing.
+- :seedling: Technical Content Writing.
 
 - :zap: In my free :zap: I solve problems on GeeksforGeeks and read tech articles.
 ---
 
-### :ham:hammer_and_wrench::
+### :hammer_and_wrench:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
